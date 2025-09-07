@@ -1,3 +1,3 @@
-# [LOAF](https://feastorg.github.io/LOAF/)
+# LOAF
 
 Locally Operated Automation Framework
