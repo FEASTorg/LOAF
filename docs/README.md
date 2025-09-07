@@ -1,3 +1,3 @@
-# LOAF
+# Docs
 
-Locally Operated Automation Framework
+This is where the docs are kept!
